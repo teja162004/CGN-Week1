@@ -1,0 +1,19 @@
+📊 Financial Forecast Report
+Month: January, Income: 50000.0, Expenses: 35000.0, Savings: 15000.0
+Month: February, Income: 52000.0, Expenses: 37000.0, Savings: 15000.0
+Month: March, Income: 48000.0, Expenses: 36000.0, Savings: 12000.0
+Month: April, Income: 51000.0, Expenses: 40000.0, Savings: 11000.0
+Month: May, Income: 53000.0, Expenses: 38000.0, Savings: 15000.0
+Month: June, Income: 55000.0, Expenses: 41000.0, Savings: 14000.0
+Month: July, Income: 56000.0, Expenses: 42000.0, Savings: 14000.0
+Month: August, Income: 58000.0, Expenses: 44000.0, Savings: 14000.0
+Month: September, Income: 59000.0, Expenses: 43000.0, Savings: 16000.0
+Month: October, Income: 60000.0, Expenses: 45000.0, Savings: 15000.0
+Month: November, Income: 62000.0, Expenses: 46000.0, Savings: 16000.0
+Month: December, Income: 63000.0, Expenses: 47000.0, Savings: 16000.0
+
+Total Income: ₹667000.00
+Total Expenses: ₹494000.00
+Total Savings: ₹173000.00
+Average Savings: ₹14416.67
+Prediction: Month: Next Month (Predicted), Income: 55583.333333333336, Expenses: 41166.666666666664, Savings: 14416.666666666672
